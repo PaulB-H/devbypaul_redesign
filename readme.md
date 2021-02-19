@@ -7,15 +7,15 @@
 <p>This build will be a bit more "modern". I will make a vertical scroll design, so I can apply some nice on-scroll animations, which would not work on the horizontal scroll layout of the previous site.</p>
 
 <p>I have a rough build done, I will be re-creating it piece by piece in this repo and cleaning up any in-line or unnecessary  styling.</p>
-<strike><p>See the live site:
+<p>See the live site:
   <a
     rel="noreferrer"
-    href="#"
+    href="https://www.devbypaul.ca"
     target="_blank"
   >
     Live Site
   </a>
-  </p></strike>
+  </p>
 
 <p>
   Find me on
