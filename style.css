@@ -34,6 +34,11 @@ a {
   font-family: "Nanum Gothic", sans-serif;
 }
 
+.wrap600 {
+  max-width: 600px;
+  margin: auto;
+}
+
 #home {
   display: flex;
   flex-direction: column;
