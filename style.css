@@ -89,9 +89,10 @@ a {
   flex-direction: column;
 }
 .project-links a:first-child {
-  margin-bottom: 10px;
+  margin-top: 10px;
 }
 .project-links a {
   white-space: nowrap;
   width: max-content;
+  margin-bottom: 10px;
 }
