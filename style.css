@@ -7,6 +7,7 @@ html {
   scrollbar-width: thin;
   /* scrollbar-color: thumb track */
   scrollbar-color: #4e6884 #e5edff;
+  overflow-x: hidden;
 }
 body {
   background-color: #e5edff;
