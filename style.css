@@ -95,6 +95,13 @@ a {
   max-width: 50%;
   padding: 10px;
 }
+@media screen and (max-width: 500px) {
+  .fl-project-img,
+  .fr-project-img {
+    max-width: 100%;
+    width: 100%;
+  }
+}
 .project-links {
   margin: 10px;
   display: flex;
